@@ -118,34 +118,51 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="BtnMenu.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAABiSURBVEhLYxgFo2D4AnV19QQgPkBjnAC1DgGAgg0aGhr/
+        aYlBdkCtQwCQa6CuoiXG9PEoGP4AGPEKQOxAY6wAtQ4BgIIDlp0GzOKBCepRMPwBMOJHq0Va4NFqcRQM
+        W8DAAADTxDMkcwrZIQAAAABJRU5ErkJggg==
+</value>
+  </data>
   <data name="BtnMinimizar.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EQAACxEBf2RfkQAAAEBJREFUSEvt0LEJADAIBVFHsdMxMlo2TwwIkipVsLkHv7E5UAAAeDIzjY3P08yV
-        OE53Xz93GpkrneGeVwMAcBPZuexuabKcQtMAAAAASUVORK5CYII=
+        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAABASURBVEhL7dCxCQAwCAVRR7HTMTJaNk8MCJIqVbC5B7+x
+        OVAAAHgyM42Nz9PMlThOd18/dxqZK53hnlcDAHAT2bnsbmmynELTAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="BtnRestaurar.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAADuSURBVEhL7ZZBCsIwFERzBE/RdpdTFISK1/EKXXgjF71S
+        Xakg6IxMJNRYF+ZHkD4Ykiahj35KErfwN3jvV+qWo6qqddM0R2SjIXsg65AzckPG7F/Or1L3yUTKttNU
+        PvDSoa7rXo+hvCdKMX5BtprKC8WS9MWkJIiVq1qb8sZAEIuD3FZKIJmKH2XXtB0pMWMuh2QPySEVzLVa
+        tvAelilVPobl1TIbINghLz8OMmiJHZCk5EXE3PDDjlRGDEF8ysRyO3Fqw0c/lN1GPHfKSJ5fjJd+PMRT
+        h/9X8HoC0TgnNQOylvK4vMX4yZV0wQbn7oBYmXyvY85jAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="BtnMaximizar.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAEsSURBVEhL7Za9DoIwFIUZdXQnYeNn4B0cHExMfB0WExl9
+        EZ9RnfTc5raB/mMkdeiX3JS2595DbUGKTBL6vt91XXdwRVmWW5Ya0JwtRwbVZqlJ0zT7tm3fjriyzAk0
+        g5ajgmqzzMRjHDSVQGs1/8b4ztPRUI5WY7kxxl6IM0uC1HV9RN7DUifamO76ydfUnljmhDRajlp5rLHY
+        0+ndY867cpcWfbHnVFsIbdAkRLODFGMe0mB8oNrcNamqasOXM5CofkIUuPCwgsZojjXWLXHVDkIFbaYS
+        Ng+eg0zGYNXDlexxQoE94sZdwS9eIOiPiPArE60wjzGVuLRoRx777z8JFRjzrlRnunKtzjJjRJoPAU6a
+        HTgf0Io9tdRYbkwRY+4ypfAaJ/u8zaxHUXwALSssODLeWw0AAAAASUVORK5CYII=
 </value>
   </data>
   <data name="BtnCerrar.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EQAACxEBf2RfkQAAAUBJREFUSEvtlm9qwkAQxfPJ6gmqEMiXQP6QM4iCF1K8WKHQ8yRp8RAV6nswK2rG
+        EAAACxABrSO9dQAAAUBJREFUSEvtlm9qwkAQxfPJ6gmqEMiXQP6QM4iCF1K8WKHQ8yRp8RAV6nswK2rG
         NetuGwoZeCSZeTs/dljCRmMMGnmeL7IsWxdFsfERe5RlOZe29oB5D/AR+gkk9tpJez1gWIhRa+Cjo3Xn
         GM9SWRRE7C2YbmDMK21RCLG3YLpxD4x8TWm1G7XwHZS8O5jAOI5nSZJM8f5+WzdijR568d0qdWdww4as
         p2n6osGZY40eepHzB4s+DBync4Lvt561s54FUxqgF5TyAV+NlM/Ld9a0NUZeYNF5l4xHOzX6n2DUBxn1
         IIfLBugFdwYjV5vG90bKnBk7vch9KR5ncPPEL/NTqbuPmnBKq13K5mNvwXSDRW1RCFnBg10EcCrnMAW/
         +mC331VVvQpGDxh3UDA4oXhupb09uHMs+Nvr7Ri/E1F0AkbIpZrhdtcVAAAAAElFTkSuQmCC
-</value>
-  </data>
-  <data name="LblMensajeError.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EQAACxEBf2RfkQAAAU5JREFUSEvtlj1OAzEQhbeAIhwAiSJS7uDYG6ol9kIaJO5ARUFBuAC5BgWcIFyG
-        ghaJBjqEnN1UwcysJvyYCbHTWEL7SU9y4Xlv1rK9zlparOmXVsvrKEENlW+GGww61sjHmVEuRlarJ3cs
-        dsgmHgidcMZB0uqKbOKoj/pd6LxiTQMETdfzIu+RXTjQ8R1niKpOjJtfnjXCMTenkZZTsgvDltKwRiQM
-        XIJjbs6nSjki279xRbEFnd6zJqSoYC0fnBDbZL8aa9SYNfimqGAQ7JULsuexh/u7MPHVL/QVGwxf/TYb
-        iT2K+Q3sxFu20FN0MAgulhuK+Uk1zAUsyYIr8rVZsFpUB3lOcV8kC0ZCl7o+P3XvL8+NcMzN8bVyqZHQ
-        zRWtdZsLCTlOwTcXae1xQpJdIEiSK3NJkp8Ekuy3iCR5CCDJnj5Iksdeyz8gyz4AOfApERBxPJ0AAAAA
-        SUVORK5CYII=
 </value>
   </data>
 </root>
